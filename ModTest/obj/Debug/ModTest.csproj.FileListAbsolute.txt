@@ -1,0 +1,7 @@
+C:\A_TechTest\ModTest\ModTest\bin\Debug\ModTest.exe.config
+C:\A_TechTest\ModTest\ModTest\bin\Debug\ModTest.exe
+C:\A_TechTest\ModTest\ModTest\bin\Debug\ModTest.pdb
+C:\A_TechTest\ModTest\ModTest\obj\Debug\ModTest.csprojAssemblyReference.cache
+C:\A_TechTest\ModTest\ModTest\obj\Debug\ModTest.csproj.CoreCompileInputs.cache
+C:\A_TechTest\ModTest\ModTest\obj\Debug\ModTest.exe
+C:\A_TechTest\ModTest\ModTest\obj\Debug\ModTest.pdb
