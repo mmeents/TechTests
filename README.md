@@ -1,6 +1,6 @@
 # TechTests
 
-(SQL Employee Scope question)[EmployeeSQL.md] 
+[SQL Employee Scope question](EmployeeSQL.md) 
 
 Optimized Math is the ModTest folder
 
