@@ -1,9 +1,5 @@
-# TechTests
+# Tech Testing
 
-[SQL Employee Scope question](EmployeeSQL.md) 
-
-Optimized Math is the ModTest folder
-
-Threaded Synchronization is the ThreadTest Folder.
+[SQL Employee Scope](EmployeeSQL.md) database example. 
 
 Matt
